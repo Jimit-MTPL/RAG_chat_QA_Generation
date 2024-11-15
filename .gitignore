@@ -1,0 +1,7 @@
+.env
+__pycache__
+cache_model
+chroma_db
+pipeline_store
+venv
+hult.md
